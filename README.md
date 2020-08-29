@@ -1,2 +1,2 @@
 # HomeMonitor
-DHT11 with RaspberryPi
+Getting temperature and humidity information with DHT and Raspberry Pi.
